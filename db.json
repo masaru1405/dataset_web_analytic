@@ -39,6 +39,13 @@
             "url": "amazon.com",
             "visitorId": "f877b96c-9969-4abc-bbe2-54b17d030f8b",
             "timestamp": 1511700631000
+        },
+        {
+            {
+            "url": "facebook.com",
+            "visitorId": "f877b96c-9969-4abc-bbe2-54b17d030f8b",
+            "timestamp": 1512791100000
+        }
         }
     ]
 }
