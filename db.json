@@ -29,6 +29,16 @@
             "url": "/pages/a-sad-story",
             "visitorId": "f877b96c-9969-4abc-bbe2-54b17d030f8b",
             "timestamp": 1512709024000
+        },
+        {
+            "url": "google.com",
+            "visitorId": "f877b96c-9969-4abc-bbe2-54b17d030f8b",
+            "timestamp": 1512711100000
+        },
+        {
+            "url": "amazon.com",
+            "visitorId": "f877b96c-9969-4abc-bbe2-54b17d030f8b",
+            "timestamp": 1511700631000
         }
     ]
 }
